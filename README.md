@@ -5,6 +5,8 @@ I'm a Software Development Engineer with a passion for building robust and scala
 ![](https://komarev.com/ghpvc/?username=souravDAS0&color=green)
 
 ### 🚀 Tech Stack 
+<br />
+<p>
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -36,8 +38,10 @@ I'm a Software Development Engineer with a passion for building robust and scala
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-mySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+</br>
 
-## 💻 What I Do
+### 💻 What I Do
 
 - Develop cross-platform mobile applications using Flutter
 - Build responsive web applications with React and Angular
@@ -45,14 +49,8 @@ I'm a Software Development Engineer with a passion for building robust and scala
 - Design and maintain MongoDB databases
 - Implement RESTful APIs and microservices
 
-## 🌱 Current Focus
 
-I'm currently expanding my skill set by:
-- Learning Java for backend development
-- Exploring containerization with Docker
-- Developing mobile applications with React Native
-
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 
 <!-- Replace these with your actual social links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravdas-tech)
