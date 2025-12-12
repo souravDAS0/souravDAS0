@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-I'm a Software Development Engineer with a passion for building robust and scalable applications. Currently working as an SDE2, I specialize in full-stack development with a focus on modern web and mobile technologies.
+I'm a Software Development Engineer with a passion for building robust and scalable applications. Currently working as an SDE-1, I specialize in full-stack development with a focus on modern web and mobile technologies.
 
 ![](https://komarev.com/ghpvc/?username=souravDAS0&color=green)
 
